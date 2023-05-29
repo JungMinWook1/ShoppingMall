@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="44086596-5f62-457f-95bd-eb2585a38579" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/ShoppingMall/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/ShoppingMall/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/ShoppingMall/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/ShoppingMall/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/ShoppingMall/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/order/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/order/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/order/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/order/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/order/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/order/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/order/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/order/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/product/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/product/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/product/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/product/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/product/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/product/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/product/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/product/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/user/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/user/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/user/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/user/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/user/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/user/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/user/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/user/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/user/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/user/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/user/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/user/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QT37ZGNilFYw7hX6DrmVDQA46m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="shoppingmall" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44086596-5f62-457f-95bd-eb2585a38579" name="Changes" comment="" />
+      <created>1685363577170</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685363577170</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

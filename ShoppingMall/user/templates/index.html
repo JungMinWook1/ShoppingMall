@@ -1,4 +1,8 @@
-{% extends "base.html" %}
+{% extends "base.html" %}{%load static%}
 {% block contents %}
-Hello world!
+<a href='https://ifh.cc/v-o4annw' target='_blank'><img src='https://ifh.cc/g/o4annw.png' border='0'></a>
+<a href="login">로그인</a>
+<a href="register">회원가입</a><br>
+<a href="{% url 'product:bag' %}">가방</a>
+{{ email }}
 {% endblock %}

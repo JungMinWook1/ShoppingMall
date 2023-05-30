@@ -5,21 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44086596-5f62-457f-95bd-eb2585a38579" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ShoppingMall/product/templates/bag.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShoppingMall/product/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShoppingMall/user/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/media/image/logo2_ywHCBym.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/media/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/media/logo2_ywHCBym.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/product/migrations/0002_product_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/static/images/KakaoTalk_20220515_183428093.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/static/images/KakaoTalk_20220515_183428093_7T2B5ng.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/static/images/KakaoTalk_20220515_183428093_g5BVutP.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/static/images/KakaoTalk_20220515_183428093_ksyWpIe.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingMall/static/images/logo2_ywHCBym.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ShoppingMall/ShoppingMall/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ShoppingMall/ShoppingMall/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShoppingMall/ShoppingMall/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ShoppingMall/ShoppingMall/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ShoppingMall/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/ShoppingMall/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShoppingMall/product/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/ShoppingMall/product/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ShoppingMall/product/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/ShoppingMall/product/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShoppingMall/product/templates/bag.html" beforeDir="false" afterPath="$PROJECT_DIR$/ShoppingMall/product/templates/bag.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShoppingMall/product/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ShoppingMall/product/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ShoppingMall/product/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ShoppingMall/product/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShoppingMall/user/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/ShoppingMall/user/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShoppingMall/user/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/ShoppingMall/user/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ShoppingMall/user/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ShoppingMall/user/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShoppingMall/user/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/ShoppingMall/user/templates/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShoppingMall/user/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ShoppingMall/user/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,20 +42,28 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2QT37ZGNilFYw7hX6DrmVDQA46m" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/yemw"
+    "last_opened_file_path": "D:/shoppingmall/ShoppingMall/media/image"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\shoppingmall\ShoppingMall\media\image" />
+      <recent name="D:\shoppingmall\ShoppingMall\product\templates" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\shoppingmall\ShoppingMall\static\images" />
     </key>
@@ -91,6 +101,9 @@
       <updated>1685363577170</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

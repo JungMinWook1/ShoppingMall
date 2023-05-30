@@ -1,10 +1,23 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Sex</title>
-</head>
-<body>
-앙 기모띠
-</body>
-</html>
+{% load static %}
+<div class="container">
+        <h2>Products - 둘러보기</h2>
+        <div class="row">
+            {% for product in pro %}
+            <div class="col-sm-6">
+                <div class="card mb-3">
+                    <div class="embed-responsive embed-responsive-4by3">
+                        <img class="card-img-top embed-responsive-item" src="{{ product.image.url }}" width="100" alt="{{ product }}" />
+                    </div>
+                    <div class="card-body">
+                        <span class="badge bg-outline-dark float-rigth">미분류</span>
+                        <h3 class="card-title h4">{{ product.name }}</h3>
+                        <a class="btn btn-outline-dark" href="{{ product.get_absolute_url }}">구입하기 →</a>
+                    </div>
+                <div class="card-footer">
+                    <div class="small text-muted"></div>
+                </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>

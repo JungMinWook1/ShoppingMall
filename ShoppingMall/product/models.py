@@ -1,5 +1,6 @@
 from django.db import models
 
+
 # Create your models here.
 
 class Category(models.Model):
@@ -11,6 +12,7 @@ class Category(models.Model):
 class Product(models.Model):
     name = models.CharField(max_length=256, verbose_name='상품명')
     category = models.ForeignKey(Category, on_delete=models.CASCADE)
+    image = models.ImageField(upload_to='', blank=True)
     price = models.IntegerField(verbose_name='상품가격')
     description = models.TextField(verbose_name='상품내용')
     stuck = models.IntegerField(verbose_name='재고')
